@@ -29,3 +29,5 @@ You can play around with `/index.html` to see the effects of your changes.
 ## Contributing
 
 We'd love a PR!
+
+https://stackoverflow.com/questions/6851868/is-it-possible-to-have-attribute-values-that-span-multiple-lines
